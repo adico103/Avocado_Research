@@ -89,7 +89,7 @@ Run `segmentation.py` - This function saves dataframe for every image as a feath
 Example for the segmantation:
 <p align="center">
 
-<img src="https://github.com/adico103/Avocado_Research/blob/main/segmentation_101-104.png" width=30%>
+<img src="https://github.com/Arl2023/Avocado_Research/blob/main/segmentation_101-104.png" width=30%>
 </p>
 
 
@@ -174,29 +174,29 @@ The files combines all of the parameters of the selected models as saved in the 
 2. plot graphs in `graphs` and `grpahs_plantations` folders in sub-folder: `best_channel_number` - presenting the test error and the standard devieation of this error, as the number of bands is changing- for example:
 
 <p align="center">
-<img src="https://github.com/adico103/Avocado_Research/blob/main/xgboost_random_select_methodch_num_test.png" width=50%>
+<img src="https://github.com/Arl2023/Avocado_Research/blob/main/xgboost_random_select_methodch_num_test.png" width=50%>
 </p>
 
  and also the test vs train as a function of number of bands- for example::
 <p align="center">
 
-<img src="https://github.com/adico103/Avocado_Research/blob/main/svm_drop_one_methodch_num_train_test.png" width=50%>
+<img src="https://github.com/Arl2023/Avocado_Research/blob/main/svm_drop_one_methodch_num_train_test.png" width=50%>
 </p>
 
 3. plot graphs in `graphs` and `grpahs_plantations` folders in sub-folder: `total_best_wl` - presenting the weighted score of the importance of the wavelengths by all of the models saved- for example:
  
 <p align="center">
-<img src="https://github.com/adico103/Avocado_Research/blob/main/random_forest_drop_one_methodtot_best_wl83models.png" width=50%>
+<img src="https://github.com/Arl2023/Avocado_Research/blob/main/random_forest_drop_one_methodtot_best_wl83models.png" width=50%>
 </p>
 
 Also the weighted score of the importance of the wavelengths by the best 5 models- for example:
 <p align="center">
-<img src="https://github.com/adico103/Avocado_Research/blob/main/random_forest_drop_one_methodtot_best_wl5models.png" width=50%>
+<img src="https://github.com/Arl2023/Avocado_Research/blob/main/random_forest_drop_one_methodtot_best_wl5models.png" width=50%>
 </p>
 
 Also the weighted score of the importance of the wavelengths by the best model- for example:
 <p align="center">
-<img src="https://github.com/adico103/Avocado_Research/blob/main/random_forest_drop_one_methodtot_best_wl1models.png" width=50%>
+<img src="https://github.com/Arl2023/Avocado_Research/blob/main/random_forest_drop_one_methodtot_best_wl1models.png" width=50%>
 </p>
 
 ## Final Results
@@ -205,7 +205,7 @@ Run `results_random_split.ipynb`,`results_plantations-1.ipynb`,`results_plantati
 
 It presnts a table for the test scores- for example:
 <p align="center">
-<img src="https://github.com/adico103/Avocado_Research/blob/main/Avarage%20Test%20Error.png" width=50%>
+<img src="https://github.com/Arl2023/Avocado_Research/blob/main/Avarage%20Test%20Error.png" width=50%>
 </p>
 
 
